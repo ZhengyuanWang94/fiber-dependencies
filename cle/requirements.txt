@@ -1,0 +1,6 @@
+pyelftools>=0.24
+pefile
+cffi
+idalink
+archinfo
+pyvex
